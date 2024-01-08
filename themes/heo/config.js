@@ -5,8 +5,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: 'Youtube', url: process.env.NEXT_PUBLIC_CONTACT_YOUTUBE || "" },
-    { title: 'Facebook', url: process.env.NEXT_PUBLIC_FACEBOOK_PAGE || "" }
+    { title: 'Challenge: 21 ngày của AI theo vai trò trên Youtube', "https://www.youtube.com/watch?v=d8X7WPlCDN4&list=PLZ72ihVb3hKjvyRjXT6DNsKznn0aVfEOW&ab_channel=PeterLam" },
+    { title: 'Câu chuyện: Cây sồi già và cây non',"https://www.youtube.com/watch?v=msdIyTdcTM0&list=PLZ72ihVb3hKhjEZhH7UE2U74y4NiGNiDV&ab_channel=PeterLam" }
   ],
 
   // 英雄区(首页顶部大卡)
